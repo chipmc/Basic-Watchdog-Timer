@@ -1,0 +1,7 @@
+{
+    "board": "attiny:avr:ATtinyX5",
+    "configuration": "cpu=attiny85,clock=internal1",
+    "sketch": "ATTINY-Watchdog-Timer.ino",
+    "port": "/dev/cu.usbserial-AC014RYK",
+    "programmer": "USBtinyISP"
+}
